@@ -1,5 +1,5 @@
 /**
- * Connects the Redux store to the GigsPages component.
+ * Connects the Redux store to the GigsPages component
  */
 import React from 'react';
 import PT from 'prop-types';
